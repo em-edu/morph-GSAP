@@ -1,0 +1,27 @@
+#preloader-container{
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    z-index: 500;
+    background-color: $blue;
+
+
+    >div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+
+
+        svg{
+            boder: 1px solid red;
+        }
+    }
+}
+
+.gs-dev-tools{
+    z-index: 550;
+}
+.copy-motion-path{
+    z-index: 550;
+}
