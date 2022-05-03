@@ -27,27 +27,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/img/hero.jpg": {
-		"ft": 16384,
-		"iS": 282360,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/deploy/img/hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/deploy/img/logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/deploy/img/logo.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
 	"/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -67,44 +46,12 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"/dev/content/content.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/dev/content/content.html",
-		"oF": 0
-		},
-	"/dev/content/hero.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/content/hero.html",
-		"oF": 0
-		},
-	"/dev/content/preloader.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/content/preloader.html",
-		"oF": 0
-		},
 	"/dev/global/head.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/dev/global/head.html",
-		"oF": 0
-		},
-	"/dev/global/header.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/global/header.html",
 		"oF": 0
 		},
 	"/dev/global/scripts.kit": {
@@ -120,17 +67,17 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/deploy/index.html",
-		"oF": 2
+		"oAP": "/dev/index.html",
+		"oF": 0
 		},
 	"/dev/js/scripts.js": {
-		"bF": 4,
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/deploy/js/scripts-min.js",
-		"oF": 2,
+		"oAP": "/dev/js/scripts-min.js",
+		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
@@ -264,45 +211,6 @@
 		"oS": 0,
 		"sct": 0
 		},
-	"/dev/scss/sections/_content.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/dev/scss/sections/_content.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
-	"/dev/scss/sections/_hero.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/dev/scss/sections/_hero.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
-	"/dev/scss/sections/_preloader.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"ec": 1,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/dev/scss/sections/_preloader.css",
-		"oF": 0,
-		"oS": 0,
-		"sct": 0
-		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -311,8 +219,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/css/styles.css",
-		"oF": 2,
+		"oAP": "/dev/scss/styles.css",
+		"oF": 0,
 		"oS": 0,
 		"sct": 0
 		},
@@ -329,39 +237,6 @@
 		"oA": 2,
 		"oAP": "/build/node_modules",
 		"oF": 0
-		},
-	"/node_modules/gsap/CSSPlugin.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/gsap/CSSPlugin-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/node_modules/gsap/gsap-core.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/gsap/gsap-core-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/node_modules/gsap/index.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/node_modules/gsap/index-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"/package-lock.json": {
 		"ft": 524288,
