@@ -423,3 +423,6 @@ textarea {
 /* =============
     Footer
 ============= */
+#tria, #star {
+  visibility: hidden;
+}
